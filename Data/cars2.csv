@@ -1,0 +1,407 @@
+Acceleration,Cylinders,Displacement,Horsepower,Miles_per_Gallon,Name,Origin,Weight_in_lbs,Date
+12,8,307,130,18,chevrolet chevelle malibu,USA,3504,5/20/1970
+11.5,8,350,165,15,buick skylark 320,USA,3693,8/2/1970
+11,8,318,150,18,plymouth satellite,USA,3436,12/10/1970
+12,8,304,150,16,amc rebel sst,USA,3433,10/16/1970
+10.5,8,302,140,17,ford torino,USA,3449,8/14/1970
+10,8,429,198,15,ford galaxie 500,USA,4341,2/9/1970
+9,8,454,220,14,chevrolet impala,USA,4354,9/7/1970
+8.5,8,440,215,14,plymouth fury iii,USA,4312,10/7/1970
+10,8,455,225,14,pontiac catalina,USA,4425,11/19/1970
+8.5,8,390,190,15,amc ambassador dpl,USA,3850,5/23/1970
+17.5,4,133,115,,citroen ds-21 pallas,Europe,3090,12/2/1970
+11.5,8,350,165,,chevrolet chevelle concours (sw),USA,4142,10/21/1970
+11,8,351,153,,ford torino (sw),USA,4034,10/16/1970
+10.5,8,383,175,,plymouth satellite (sw),USA,4166,4/22/1970
+11,8,360,175,,amc rebel sst (sw),USA,3850,8/5/1970
+10,8,383,170,15,dodge challenger se,USA,3563,11/21/1970
+8,8,340,160,14,plymouth 'cuda 340,USA,3609,11/9/1970
+8,8,302,140,,ford mustang boss 302,USA,3353,2/3/1970
+9.5,8,400,150,15,chevrolet monte carlo,USA,3761,4/26/1970
+10,8,455,225,14,buick estate wagon (sw),USA,3086,5/8/1970
+15,4,113,95,24,toyota corona mark ii,Japan,2372,1/1/1970
+15.5,6,198,95,22,plymouth duster,USA,2833,6/14/1970
+15.5,6,199,97,18,amc hornet,USA,2774,7/10/1970
+16,6,200,85,21,ford maverick,USA,2587,9/14/1970
+14.5,4,97,88,27,datsun pl510,Japan,2130,6/17/1970
+20.5,4,97,46,26,volkswagen 1131 deluxe sedan,Europe,1835,4/24/1970
+17.5,4,110,87,25,peugeot 504,Europe,2672,8/9/1970
+14.5,4,107,90,24,audi 100 ls,Europe,2430,7/5/1970
+17.5,4,104,95,25,saab 99e,Europe,2375,9/25/1970
+12.5,4,121,113,26,bmw 2002,Europe,2234,10/17/1970
+15,6,199,90,21,amc gremlin,USA,2648,5/2/1970
+14,8,360,215,10,ford f250,USA,4615,1/5/1970
+15,8,307,200,10,chevrolet c20,USA,4376,7/2/1970
+13.5,8,318,210,11,dodge d200,USA,4382,7/19/1970
+18.5,8,304,193,9,hi 1200d,USA,4732,12/11/1970
+14.5,4,97,88,27,datsun pl510,Japan,2130,7/11/1971
+15.5,4,140,90,28,chevrolet vega 2300,USA,2264,11/3/1971
+14,4,113,95,25,toyota corona,Japan,2228,7/25/1971
+19,4,98,58,25,ford pinto,USA,2046,4/5/1971
+20,4,97,48,,volkswagen super beetle 117,Europe,1978,8/9/1971
+13,6,232,100,19,amc gremlin,USA,2634,1/14/1971
+15.5,6,225,105,16,plymouth satellite custom,USA,3439,5/21/1971
+15.5,6,250,100,17,chevrolet chevelle malibu,USA,3329,4/23/1971
+15.5,6,250,88,19,ford torino 500,USA,3302,10/3/1971
+15.5,6,232,100,18,amc matador,USA,3288,7/13/1971
+12,8,350,165,14,chevrolet impala,USA,4209,6/6/1971
+11.5,8,400,175,14,pontiac catalina brougham,USA,4464,10/20/1971
+13.5,8,351,153,14,ford galaxie 500,USA,4154,7/1/1971
+13,8,318,150,14,plymouth fury iii,USA,4096,6/14/1971
+11.5,8,383,180,12,dodge monaco (sw),USA,4955,10/18/1971
+12,8,400,170,13,ford country squire (sw),USA,4746,5/26/1971
+12,8,400,175,13,pontiac safari (sw),USA,5140,10/6/1971
+13.5,6,258,110,18,amc hornet sportabout (sw),USA,2962,2/24/1971
+19,4,140,72,22,chevrolet vega (sw),USA,2408,5/11/1971
+15,6,250,100,19,pontiac firebird,USA,3282,11/24/1971
+14.5,6,250,88,18,ford mustang,USA,3139,3/4/1971
+14,4,122,86,23,mercury capri 2000,USA,2220,11/8/1971
+14,4,116,90,28,opel 1900,Europe,2123,9/19/1971
+19.5,4,79,70,30,peugeot 304,Europe,2074,6/26/1971
+14.5,4,88,76,30,fiat 124b,Europe,2065,3/9/1971
+19,4,71,65,31,toyota corolla 1200,Japan,1773,6/1/1971
+18,4,72,69,35,datsun 1200,Japan,1613,10/23/1971
+19,4,97,60,27,volkswagen model 111,Europe,1834,7/23/1971
+20.5,4,91,70,26,plymouth cricket,USA,1955,1/9/1971
+15.5,4,113,95,24,toyota corona hardtop,Japan,2278,1/7/1972
+17,4,97.5,80,25,dodge colt hardtop,USA,2126,11/21/1972
+23.5,4,97,54,23,volkswagen type 3,Europe,2254,3/15/1972
+19.5,4,140,90,20,chevrolet vega,USA,2408,9/10/1972
+16.5,4,122,86,21,ford pinto runabout,USA,2226,1/20/1972
+12,8,350,165,13,chevrolet impala,USA,4274,2/18/1972
+12,8,400,175,14,pontiac catalina,USA,4385,8/26/1972
+13.5,8,318,150,15,plymouth fury iii,USA,4135,1/10/1972
+13,8,351,153,14,ford galaxie 500,USA,4129,7/1/1972
+11.5,8,304,150,17,amc ambassador sst,USA,3672,10/6/1972
+11,8,429,208,11,mercury marquis,USA,4633,11/2/1972
+13.5,8,350,155,13,buick lesabre custom,USA,4502,11/22/1972
+13.5,8,350,160,12,oldsmobile delta 88 royale,USA,4456,2/19/1972
+12.5,8,400,190,13,chrysler newport royal,USA,4422,8/10/1972
+13.5,3,70,97,19,mazda rx2 coupe,Japan,2330,2/17/1972
+12.5,8,304,150,15,amc matador (sw),USA,3892,4/24/1972
+14,8,307,130,13,chevrolet chevelle concours (sw),USA,4098,9/19/1972
+16,8,302,140,13,ford gran torino (sw),USA,4294,7/4/1972
+14,8,318,150,14,plymouth satellite custom (sw),USA,4077,5/14/1972
+14.5,4,121,112,18,volvo 145e (sw),Europe,2933,3/21/1972
+18,4,121,76,22,volkswagen 411 (sw),Europe,2511,2/8/1972
+19.5,4,120,87,21,peugeot 504 (sw),Europe,2979,11/25/1972
+18,4,96,69,26,renault 12 (sw),Europe,2189,3/6/1972
+16,4,122,86,22,ford pinto (sw),USA,2395,10/2/1972
+17,4,97,92,28,datsun 510 (sw),Japan,2288,10/19/1972
+14.5,4,120,97,23,toyota corona mark ii (sw),Japan,2506,3/27/1972
+15,4,98,80,28,dodge colt (sw),USA,2164,11/23/1972
+16.5,4,97,88,27,toyota corolla 1600 (sw),Japan,2100,2/3/1972
+13,8,350,175,13,buick century 350,USA,4100,8/22/1973
+11.5,8,304,150,14,amc matador,USA,3672,8/19/1973
+13,8,350,145,13,chevrolet malibu,USA,3988,7/22/1973
+14.5,8,302,137,14,ford gran torino,USA,4042,5/7/1973
+12.5,8,318,150,15,dodge coronet custom,USA,3777,4/21/1973
+11.5,8,429,198,12,mercury marquis brougham,USA,4952,8/13/1973
+12,8,400,150,13,chevrolet caprice classic,USA,4464,3/5/1973
+13,8,351,158,13,ford ltd,USA,4363,4/19/1973
+14.5,8,318,150,14,plymouth fury gran sedan,USA,4237,4/17/1973
+11,8,440,215,13,chrysler new yorker brougham,USA,4735,11/8/1973
+11,8,455,225,12,buick electra 225 custom,USA,4951,4/23/1973
+11,8,360,175,13,amc ambassador brougham,USA,3821,1/24/1973
+16.5,6,225,105,18,plymouth valiant,USA,3121,7/3/1973
+18,6,250,100,16,chevrolet nova custom,USA,3278,4/10/1973
+16,6,232,100,18,amc hornet,USA,2945,6/17/1973
+16.5,6,250,88,18,ford maverick,USA,3021,3/17/1973
+16,6,198,95,23,plymouth duster,USA,2904,5/5/1973
+21,4,97,46,26,volkswagen super beetle,Europe,1950,3/1/1973
+14,8,400,150,11,chevrolet impala,USA,4997,4/2/1973
+12.5,8,400,167,12,ford country,USA,4906,11/4/1973
+13,8,360,170,13,plymouth custom suburb,USA,4654,4/9/1973
+12.5,8,350,180,12,oldsmobile vista cruiser,USA,4499,9/6/1973
+15,6,232,100,18,amc gremlin,USA,2789,7/24/1973
+19,4,97,88,20,toyota carina,Japan,2279,6/10/1973
+19.5,4,140,72,21,chevrolet vega,USA,2401,3/17/1973
+16.5,4,108,94,22,datsun 610,Japan,2379,6/9/1973
+13.5,3,70,90,18,maxda rx3,Japan,2124,7/25/1973
+18.5,4,122,85,19,ford pinto,USA,2310,11/21/1973
+14,6,155,107,21,mercury capri v6,USA,2472,2/9/1973
+15.5,4,98,90,26,fiat 124 sport coupe,Europe,2265,11/4/1973
+13,8,350,145,15,chevrolet monte carlo s,USA,4082,10/14/1973
+9.5,8,400,230,16,pontiac grand prix,USA,4278,1/23/1973
+19.5,4,68,49,29,fiat 128,Europe,1867,8/26/1973
+15.5,4,116,75,24,opel manta,Europe,2158,1/20/1973
+14,4,114,91,20,audi 100ls,Europe,2582,9/19/1973
+15.5,4,121,112,19,volvo 144ea,Europe,2868,10/5/1973
+11,8,318,150,15,dodge dart custom,USA,3399,8/23/1973
+14,4,121,110,24,saab 99le,Europe,2660,3/15/1973
+13.5,6,156,122,20,toyota mark ii,Japan,2807,11/16/1973
+11,8,350,180,11,oldsmobile omega,USA,3664,6/27/1973
+16.5,6,198,95,20,plymouth duster,USA,3102,9/20/1974
+17,6,200,89,21,ford maverick,USA,2875,12/7/1974
+16,6,232,100,19,amc hornet,USA,2901,4/14/1974
+17,6,250,100,15,chevrolet nova,USA,3336,7/23/1974
+19,4,79,67,31,datsun b210,Japan,1950,11/7/1974
+16.5,4,122,80,26,ford pinto,USA,2451,12/7/1974
+21,4,71,65,32,toyota corolla 1200,Japan,1836,8/17/1974
+17,4,140,75,25,chevrolet vega,USA,2542,8/23/1974
+17,6,250,100,16,chevrolet chevelle malibu classic,USA,3781,2/4/1974
+18,6,258,110,16,amc matador,USA,3632,5/15/1974
+16.5,6,225,105,18,plymouth satellite sebring,USA,3613,12/9/1974
+14,8,302,140,16,ford gran torino,USA,4141,11/22/1974
+14.5,8,350,150,13,buick century luxus (sw),USA,4699,6/7/1974
+13.5,8,318,150,14,dodge coronet custom (sw),USA,4457,3/23/1974
+16,8,302,140,14,ford gran torino (sw),USA,4638,1/9/1974
+15.5,8,304,150,14,amc matador (sw),USA,4257,9/6/1974
+16.5,4,98,83,29,audi fox,Europe,2219,1/26/1974
+15.5,4,79,67,26,volkswagen dasher,Europe,1963,11/18/1974
+14.5,4,97,78,26,opel manta,Europe,2300,2/26/1974
+16.5,4,76,52,31,toyota corona,Japan,1649,1/26/1974
+19,4,83,61,32,datsun 710,Japan,2003,3/22/1974
+14.5,4,90,75,28,dodge colt,USA,2125,6/4/1974
+15.5,4,90,75,24,fiat 128,Europe,2108,9/10/1974
+14,4,116,75,26,fiat 124 tc,Europe,2246,3/13/1974
+15,4,120,97,24,honda civic,Japan,2489,9/7/1974
+15.5,4,108,93,26,subaru,Japan,2391,6/3/1974
+16,4,79,67,31,fiat x1.9,Europe,2000,4/20/1974
+16,6,225,95,19,plymouth valiant custom,USA,3264,9/14/1975
+16,6,250,105,18,chevrolet nova,USA,3459,9/21/1975
+21,6,250,72,15,mercury monarch,USA,3432,5/3/1975
+19.5,6,250,72,15,ford maverick,USA,3158,12/11/1975
+11.5,8,400,170,16,pontiac catalina,USA,4668,9/15/1975
+14,8,350,145,15,chevrolet bel air,USA,4440,12/4/1975
+14.5,8,318,150,16,plymouth grand fury,USA,4498,3/2/1975
+13.5,8,351,148,14,ford ltd,USA,4657,5/9/1975
+21,6,231,110,17,buick century,USA,3907,4/17/1975
+18.5,6,250,105,16,chevrolet chevelle malibu,USA,3897,10/9/1975
+19,6,258,110,15,amc matador,USA,3730,5/14/1975
+19,6,225,95,18,plymouth fury,USA,3785,3/10/1975
+15,6,231,110,21,buick skyhawk,USA,3039,9/17/1975
+13.5,8,262,110,20,chevrolet monza 2+2,USA,3221,1/9/1975
+12,8,302,129,13,ford mustang ii,USA,3169,5/4/1975
+16,4,97,75,29,toyota corolla,Japan,2171,2/3/1975
+17,4,140,83,23,ford pinto,USA,2639,3/18/1975
+16,6,232,100,20,amc gremlin,USA,2914,7/22/1975
+18.5,4,140,78,23,pontiac astro,USA,2592,7/4/1975
+13.5,4,134,96,24,toyota corona,Japan,2702,4/16/1975
+16.5,4,90,71,25,volkswagen dasher,Europe,2223,11/3/1975
+17,4,119,97,24,datsun 710,Japan,2545,12/1/1975
+14.5,6,171,97,18,ford pinto,USA,2984,10/21/1975
+14,4,90,70,29,volkswagen rabbit,Europe,1937,4/5/1975
+17,6,232,90,19,amc pacer,USA,3211,8/26/1975
+15,4,115,95,23,audi 100ls,Europe,2694,8/13/1975
+17,4,120,88,23,peugeot 504,Europe,2957,4/26/1975
+14.5,4,121,98,22,volvo 244dl,Europe,2945,2/17/1975
+13.5,4,121,115,25,saab 99le,Europe,2671,11/14/1975
+17.5,4,91,53,33,honda civic cvcc,Japan,1795,8/27/1975
+15.5,4,107,86,28,fiat 131,Europe,2464,3/13/1976
+16.9,4,116,81,25,opel 1900,Europe,2220,10/6/1976
+14.9,4,140,92,25,capri ii,USA,2572,7/6/1976
+17.7,4,98,79,26,dodge colt,USA,2255,4/3/1976
+15.3,4,101,83,27,renault 12tl,Europe,2202,6/23/1976
+13,8,305,140,17.5,chevrolet chevelle malibu classic,USA,4215,10/20/1976
+13,8,318,150,16,dodge coronet brougham,USA,4190,3/13/1976
+13.9,8,304,120,15.5,amc matador,USA,3962,10/22/1976
+12.8,8,351,152,14.5,ford gran torino,USA,4215,4/3/1976
+15.4,6,225,100,22,plymouth valiant,USA,3233,7/23/1976
+14.5,6,250,105,22,chevrolet nova,USA,3353,9/3/1976
+17.6,6,200,81,24,ford maverick,USA,3012,5/19/1976
+17.6,6,232,90,22.5,amc hornet,USA,3085,2/20/1976
+22.2,4,85,52,29,chevrolet chevette,USA,2035,2/14/1976
+22.1,4,98,60,24.5,chevrolet woody,USA,2164,3/26/1976
+14.2,4,90,70,29,vw rabbit,Europe,1937,9/6/1976
+17.4,4,91,53,33,honda civic,Japan,1795,11/10/1976
+17.7,6,225,100,20,dodge aspen se,USA,3651,8/10/1976
+21,6,250,78,18,ford granada ghia,USA,3574,1/15/1976
+16.2,6,250,110,18.5,pontiac ventura sj,USA,3645,7/22/1976
+17.8,6,258,95,17.5,amc pacer d/l,USA,3193,2/3/1976
+12.2,4,97,71,29.5,volkswagen rabbit,Europe,1825,3/1/1976
+17,4,85,70,32,datsun b-210,Japan,1990,11/24/1976
+16.4,4,97,75,28,toyota corolla,Japan,2155,7/26/1976
+13.6,4,140,72,26.5,ford pinto,USA,2565,8/11/1976
+15.7,4,130,102,20,volvo 245,Europe,3150,2/24/1976
+13.2,8,318,150,13,plymouth volare premier v8,USA,3940,6/11/1976
+21.9,4,120,88,19,peugeot 504,Europe,3270,8/6/1976
+15.5,6,156,108,19,toyota mark ii,Japan,2930,2/3/1976
+16.7,6,168,120,16.5,mercedes-benz 280s,Europe,3820,7/5/1976
+12.1,8,350,180,16.5,cadillac seville,USA,4380,10/25/1976
+12,8,350,145,13,chevrolet c10,USA,4055,3/6/1976
+15,8,302,130,13,ford f108,USA,3870,9/4/1976
+14,8,318,150,13,dodge d100,USA,3755,6/19/1976
+18.5,4,98,68,31.5,honda Accelerationord cvcc,Japan,2045,3/26/1977
+14.8,4,111,80,30,buick opel isuzu deluxe,USA,2155,7/1/1977
+18.6,4,79,58,36,renault 5 gtl,Europe,1825,6/18/1977
+15.5,4,122,96,25.5,plymouth arrow gs,USA,2300,11/11/1977
+16.8,4,85,70,33.5,datsun f-10 hatchback,Japan,1945,2/9/1977
+12.5,8,305,145,17.5,chevrolet caprice classic,USA,3880,8/10/1977
+19,8,260,110,17,oldsmobile cutlass supreme,USA,4060,8/18/1977
+13.7,8,318,145,15.5,dodge monaco brougham,USA,4140,9/15/1977
+14.9,8,302,130,15,mercury cougar brougham,USA,4295,9/8/1977
+16.4,6,250,110,17.5,chevrolet concours,USA,3520,3/26/1977
+16.9,6,231,105,20.5,buick skylark,USA,3425,7/3/1977
+17.7,6,225,100,19,plymouth volare custom,USA,3630,3/25/1977
+19,6,250,98,18.5,ford granada,USA,3525,12/9/1977
+11.1,8,400,180,16,pontiac grand prix lj,USA,4220,7/4/1977
+11.4,8,350,170,15.5,chevrolet monte carlo landau,USA,4165,11/1/1977
+12.2,8,400,190,15.5,chrysler cordoba,USA,4325,10/1/1977
+14.5,8,351,149,16,ford thunderbird,USA,4335,3/17/1977
+14.5,4,97,78,29,volkswagen rabbit custom,Europe,1940,9/18/1977
+16,4,151,88,24.5,pontiac sunbird coupe,USA,2740,2/6/1977
+18.2,4,97,75,26,toyota corolla liftback,Japan,2265,11/27/1977
+15.8,4,140,89,25.5,ford mustang ii 2+2,USA,2755,6/1/1977
+17,4,98,63,30.5,chevrolet chevette,USA,2051,2/18/1977
+15.9,4,98,83,33.5,dodge colt m/m,USA,2075,7/7/1977
+16.4,4,97,67,30,subaru dl,Japan,1985,5/27/1977
+14.1,4,97,78,30.5,volkswagen dasher,Europe,2190,3/13/1977
+14.5,6,146,97,22,datsun 810,Japan,2815,1/5/1977
+12.8,4,121,110,21.5,bmw 320i,Europe,2600,4/14/1977
+13.5,3,80,110,21.5,mazda rx-4,Japan,2720,2/27/1977
+21.5,4,90,48,43.1,volkswagen rabbit custom diesel,Europe,1985,11/6/1978
+14.4,4,98,66,36.1,ford fiesta,USA,1800,8/8/1978
+19.4,4,78,52,32.8,mazda glc deluxe,Japan,1985,12/9/1978
+18.6,4,85,70,39.4,datsun b210 gx,Japan,2070,10/22/1978
+16.4,4,91,60,36.1,honda civic cvcc,Japan,1800,10/22/1978
+15.5,8,260,110,19.9,oldsmobile cutlass salon brougham,USA,3365,9/5/1978
+13.2,8,318,140,19.4,dodge diplomat,USA,3735,8/15/1978
+12.8,8,302,139,20.2,mercury monarch ghia,USA,3570,2/22/1978
+19.2,6,231,105,19.2,pontiac phoenix lj,USA,3535,8/14/1978
+18.2,6,200,95,20.5,chevrolet malibu,USA,3155,10/25/1978
+15.8,6,200,85,20.2,ford fairmont (auto),USA,2965,11/4/1978
+15.4,4,140,88,25.1,ford fairmont (man),USA,2720,10/9/1978
+17.2,6,225,100,20.5,plymouth volare,USA,3430,2/9/1978
+17.2,6,232,90,19.4,amc concord,USA,3210,11/27/1978
+15.8,6,231,105,20.6,buick century special,USA,3380,6/11/1978
+16.7,6,200,85,20.8,mercury zephyr,USA,3070,11/6/1978
+18.7,6,225,110,18.6,dodge aspen,USA,3620,5/23/1978
+15.1,6,258,120,18.1,amc concord d/l,USA,3410,1/4/1978
+13.2,8,305,145,19.2,chevrolet monte carlo landau,USA,3425,8/1/1978
+13.4,6,231,165,17.7,buick regal sport coupe (turbo),USA,3445,2/23/1978
+11.2,8,302,139,18.1,ford futura,USA,3205,1/16/1978
+13.7,8,318,140,17.5,dodge magnum xe,USA,4080,5/15/1978
+16.5,4,98,68,30,chevrolet chevette,USA,2155,8/22/1978
+14.2,4,134,95,27.5,toyota corona,Japan,2560,7/26/1978
+14.7,4,119,97,27.2,datsun 510,Japan,2300,8/8/1978
+14.5,4,105,75,30.9,dodge omni,USA,2230,9/1/1978
+14.8,4,134,95,21.1,toyota celica gt liftback,Japan,2515,4/25/1978
+16.7,4,156,105,23.2,plymouth sapporo,USA,2745,1/11/1978
+17.6,4,151,85,23.8,oldsmobile starfire sx,USA,2855,5/3/1978
+14.9,4,119,97,23.9,datsun 200-sx,Japan,2405,5/20/1978
+15.9,5,131,103,20.3,audi 5000,Europe,2830,5/1/1978
+13.6,6,163,125,17,volvo 264gl,Europe,3140,4/26/1978
+15.7,4,121,115,21.6,saab 99gle,Europe,2795,9/6/1978
+15.8,6,163,133,16.2,peugeot 604sl,Europe,3410,7/26/1978
+14.9,4,89,71,31.5,volkswagen scirocco,Europe,1990,11/4/1978
+16.6,4,98,68,29.5,honda Accelerationord lx,Japan,2135,3/17/1978
+15.4,6,231,115,21.5,pontiac lemans v6,USA,3245,1/3/1979
+18.2,6,200,85,19.8,mercury zephyr 6,USA,2990,8/21/1979
+17.3,4,140,88,22.3,ford fairmont 4,USA,2890,2/22/1979
+18.2,6,232,90,20.2,amc concord dl 6,USA,3265,8/6/1979
+16.6,6,225,110,20.6,dodge aspen 6,USA,3360,9/20/1979
+15.4,8,305,130,17,chevrolet caprice classic,USA,3840,2/19/1979
+13.4,8,302,129,17.6,ford ltd landau,USA,3725,4/22/1979
+13.2,8,351,138,16.5,mercury grand marquis,USA,3955,5/7/1979
+15.2,8,318,135,18.2,dodge st. regis,USA,3830,8/13/1979
+14.9,8,350,155,16.9,buick estate wagon (sw),USA,4360,11/15/1979
+14.3,8,351,142,15.5,ford country squire (sw),USA,4054,5/9/1979
+15,8,267,125,19.2,chevrolet malibu classic (sw),USA,3605,11/9/1979
+13,8,360,150,18.5,chrysler lebaron town @ country (sw),USA,3940,9/2/1979
+14,4,89,71,31.9,vw rabbit custom,Europe,1925,11/21/1979
+15.2,4,86,65,34.1,maxda glc deluxe,Japan,1975,11/14/1979
+14.4,4,98,80,35.7,dodge colt hatchback custom,USA,1915,11/9/1979
+15,4,121,80,27.4,amc spirit dl,USA,2670,8/3/1979
+20.1,5,183,77,25.4,mercedes benz 300d,Europe,3530,5/11/1979
+17.4,8,350,125,23,cadillac eldorado,USA,3900,6/2/1979
+24.8,4,141,71,27.2,peugeot 504,Europe,3190,9/15/1979
+22.2,8,260,90,23.9,oldsmobile cutlass salon brougham,USA,3420,7/20/1979
+13.2,4,105,70,34.2,plymouth horizon,USA,2200,6/15/1979
+14.9,4,105,70,34.5,plymouth horizon tc3,USA,2150,5/13/1979
+19.2,4,85,65,31.8,datsun 210,Japan,2020,1/6/1979
+14.7,4,91,69,37.3,fiat strada custom,Europe,2130,2/21/1979
+16,4,151,90,28.4,buick skylark limited,USA,2670,9/26/1979
+11.3,6,173,115,28.8,chevrolet citation,USA,2595,9/26/1979
+12.9,6,173,115,26.8,oldsmobile omega brougham,USA,2700,8/5/1979
+13.2,4,151,90,33.5,pontiac phoenix,USA,2556,7/6/1979
+14.7,4,98,76,41.5,vw rabbit,Europe,2144,8/8/1980
+18.8,4,89,60,38.1,toyota corolla tercel,Japan,1968,7/2/1980
+15.5,4,98,70,32.1,chevrolet chevette,USA,2120,8/8/1980
+16.4,4,86,65,37.2,datsun 310,Japan,2019,11/24/1980
+16.5,4,151,90,28,chevrolet citation,USA,2678,11/8/1980
+18.1,4,140,88,26.4,ford fairmont,USA,2870,3/11/1980
+20.1,4,151,90,24.3,amc concord,USA,3003,7/14/1980
+18.7,6,225,90,19.1,dodge aspen,USA,3381,10/7/1980
+15.8,4,97,78,34.3,audi 4000,Europe,2188,5/23/1980
+15.5,4,134,90,29.8,toyota corona liftback,Japan,2711,3/9/1980
+17.5,4,120,75,31.3,mazda 626,Japan,2542,2/20/1980
+15,4,119,92,37,datsun 510 hatchback,Japan,2434,8/5/1980
+15.2,4,108,75,32.2,toyota corolla,Japan,2265,7/2/1980
+17.9,4,86,65,46.6,mazda glc,Japan,2110,10/26/1980
+14.4,4,156,105,27.9,dodge colt,USA,2800,4/10/1980
+19.2,4,85,65,40.8,datsun 210,Japan,2110,8/15/1980
+21.7,4,90,48,44.3,vw rabbit c (diesel),Europe,2085,10/4/1980
+23.7,4,90,48,43.4,vw dasher (diesel),Europe,2335,7/5/1980
+19.9,5,121,67,36.4,audi 5000s (diesel),Europe,2950,3/20/1980
+21.8,4,146,67,30,mercedes-benz 240d,Europe,3250,8/21/1980
+13.8,4,91,67,44.6,honda civic 1500 gl,Japan,1850,12/6/1980
+17.3,4,85,50,40.9,renault lecar deluxe,Europe,1835,7/27/1980
+18,4,97,67,33.8,subaru dl,Japan,2145,11/15/1980
+15.3,4,89,62,29.8,vokswagen rabbit,Europe,1845,8/5/1980
+11.4,6,168,132,32.7,datsun 280-zx,Japan,2910,7/21/1980
+12.5,3,70,100,23.7,mazda rx-7 gs,Japan,2420,11/17/1980
+15.1,4,122,88,35,triumph tr7 coupe,Europe,2500,11/6/1980
+14.3,4,140,80,23.6,ford mustang cobra,USA,2905,5/3/1980
+17,4,107,72,32.4,honda Accelerationord,Japan,2290,1/17/1980
+15.7,4,135,84,27.2,plymouth reliant,USA,2490,11/5/1982
+16.4,4,151,84,26.6,buick skylark,USA,2635,2/6/1982
+14.4,4,156,92,25.8,dodge aries wagon (sw),USA,2620,7/7/1982
+12.6,6,173,110,23.5,chevrolet citation,USA,2725,2/24/1982
+12.9,4,135,84,30,plymouth reliant,USA,2385,10/11/1982
+16.9,4,79,58,39.1,toyota starlet,Japan,1755,3/15/1982
+16.4,4,86,64,39,plymouth champ,USA,1875,6/17/1982
+16.1,4,81,60,35.1,honda civic 1300,Japan,1760,10/17/1982
+17.8,4,97,67,32.3,subaru,Japan,2065,10/21/1982
+19.4,4,85,65,37,datsun 210,Japan,1975,8/27/1982
+17.3,4,89,62,37.7,toyota tercel,Japan,2050,2/14/1982
+16,4,91,68,34.1,mazda glc 4,Japan,1985,7/2/1982
+14.9,4,105,63,34.7,plymouth horizon 4,USA,2215,10/9/1982
+16.2,4,98,65,34.4,ford escort 4w,USA,2045,10/5/1982
+20.7,4,98,65,29.9,ford escort 2h,USA,2380,5/13/1982
+14.2,4,105,74,33,volkswagen jetta,Europe,2190,9/23/1982
+15.8,4,100,70,34.5,renault 18i,Europe,2320,4/13/1982
+14.4,4,107,75,33.7,honda prelude,Japan,2210,4/16/1982
+16.8,4,108,75,32.4,toyota corolla,Japan,2350,5/7/1982
+14.8,4,119,100,32.9,datsun 200sx,Japan,2615,9/1/1982
+18.3,4,120,74,31.6,mazda 626,Japan,2635,6/13/1982
+20.4,4,141,80,28.1,peugeot 505s turbo diesel,Europe,3230,7/6/1982
+15.4,4,121,110,,saab 900s,Europe,2800,10/8/1982
+19.6,6,145,76,30.7,volvo diesel,Europe,3160,6/25/1982
+12.6,6,168,116,25.4,toyota cressida,Japan,2900,3/22/1982
+13.8,6,146,120,24.2,datsun 810 maxima,Japan,2930,3/18/1982
+15.8,6,231,110,22.4,buick century,USA,3415,6/22/1982
+19,8,350,105,26.6,oldsmobile cutlass ls,USA,3725,3/18/1982
+17.1,6,200,88,20.2,ford granada gl,USA,3060,6/9/1982
+16.6,6,225,85,17.6,chrysler lebaron salon,USA,3465,11/17/1982
+19.6,4,112,88,28,chevrolet cavalier,USA,2605,10/4/1982
+18.6,4,112,88,27,chevrolet cavalier wagon,USA,2640,3/27/1982
+18,4,112,88,34,chevrolet cavalier 2-door,USA,2395,2/27/1982
+16.2,4,112,85,31,pontiac j2000 se hatchback,USA,2575,1/27/1982
+16,4,135,84,29,dodge aries se,USA,2525,5/15/1982
+18,4,151,90,27,pontiac phoenix,USA,2735,8/8/1982
+16.4,4,140,92,24,ford fairmont futura,USA,2865,9/2/1982
+20.5,4,151,92,23,amc concord dl,USA,3035,10/1/1982
+15.3,4,105,74,36,volkswagen rabbit l,Europe,1980,8/5/1982
+18.2,4,91,68,37,mazda glc custom l,Japan,2025,1/27/1982
+17.6,4,91,68,31,mazda glc custom,Japan,1970,1/23/1982
+14.7,4,105,63,38,plymouth horizon miser,USA,2125,8/22/1982
+17.3,4,98,70,36,mercury lynx l,USA,2125,9/11/1982
+14.5,4,120,88,36,nissan stanza xe,Japan,2160,5/7/1982
+14.5,4,107,75,36,honda Accelerationord,Japan,2205,9/10/1982
+16.9,4,108,70,34,toyota corolla,Japan,2245,5/10/1982
+15,4,91,67,38,honda civic,Japan,1965,3/2/1982
+15.7,4,91,67,32,honda civic (auto),Japan,1965,5/16/1982
+16.2,4,91,67,38,datsun 310 gx,Japan,1995,1/6/1982
+16.4,6,181,110,25,buick century limited,USA,2945,11/8/1982
+17,6,262,85,38,oldsmobile cutlass ciera (diesel),USA,3015,3/23/1982
+14.5,4,156,92,26,chrysler lebaron medallion,USA,2585,9/7/1982
+14.7,6,232,112,22,ford granada l,USA,2835,9/20/1982
+13.9,4,144,96,32,toyota celica gt,Japan,2665,10/23/1982
+13,4,135,84,36,dodge charger 2.2,USA,2370,6/18/1982
+17.3,4,151,90,27,chevrolet camaro,USA,2950,6/5/1982
+15.6,4,140,86,27,ford mustang gl,USA,2790,9/11/1982
+24.6,4,97,52,44,vw pickup,Europe,2130,10/11/1982
+11.6,4,135,84,32,dodge rampage,USA,2295,11/16/1982
+18.6,4,120,79,28,ford ranger,USA,2625,8/3/1982
+19.4,4,119,82,31,chevrolet s-10,USA,2720,11/24/1982
